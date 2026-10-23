@@ -51,12 +51,12 @@ responsible disclosure, and practical problem-solving.
 
 | Area | Skills |
 |---|---|
-| Web Security | OWASP Top 10, XSS, SQL Injection |
+| Web Security | OWASP Top 10, XSS, SQL Injection, BOLA, IDOR, MANY MORE.|
 | Security Testing | Vulnerability Assessment, Manual Testing |
-| Web Tools | Burp Suite, Nmap |
+| Web Tools | Burp Suite, Nmap, Wireshark|
 | Networking | TCP/IP, DNS, HTTP, HTTPS, Ports |
 | Operating Systems | Linux, Kali Linux |
-| Programming | Python, SQL, TypeScript |
+| Programming | Python, SQL, Bash |
 | Web Development | JavaScript — Learning |
 | Version Control | Git & GitHub |
 | Security Concepts | Authentication, Authorization, Access Control |
@@ -71,12 +71,8 @@ responsible disclosure, and practical problem-solving.
 
 ###  Security Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-</p>
 
+Private and Self Made Tools
 ---
 
 ##  Selected Work
