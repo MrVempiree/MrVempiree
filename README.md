@@ -1,9 +1,9 @@
 <!-- PROFILE HEADER -->
 
-<h1 align="center">⚡ Lavish Gangwar | Mr Vempire</h1>
+<h1 align="center"> Lavish Gangwar | Mr Vempire</h1>
 
 <h3 align="center">
-  🛡️ Aspiring Security Engineer • Web Application Security • Penetration Testing
+   Aspiring Security Engineer • Web Application Security • Penetration Testing
 </h3>
 
 <p align="center">
@@ -29,7 +29,7 @@ My focus is on understanding how applications work, identifying
 security weaknesses, learning practical testing methodologies,
 and helping make systems more secure.
 
-🔎 **My security interests include:**
+ **My security interests include:**
 - Web Application Security
 - OWASP Top 10 Vulnerabilities
 - Authentication & Authorization Testing
@@ -38,16 +38,16 @@ and helping make systems more secure.
 - Security Automation
 - Ethical Hacking
 
-🧠 I believe in a security-first mindset, continuous learning,
+I believe in a security-first mindset, continuous learning,
 responsible disclosure, and practical problem-solving.
 
-📍 **Location:** Bareilly, Uttar Pradesh, India
+📍 **Location:**  India
 🌐 **Work Preference:** Remote / Hybrid
 💼 **Availability:** Open to suitable cybersecurity opportunities
 
 ---
 
-## 🛡️ Core Security Skills
+## Core Security Skills
 
 | Area | Skills |
 |---|---|
@@ -63,13 +63,13 @@ responsible disclosure, and practical problem-solving.
 
 ---
 
-## ⚙️ Technical Toolkit
+##  Technical Toolkit
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,linux,bash,git,github,mysql,typescript" />
 </p>
 
-### 🔧 Security Tools
+###  Security Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
@@ -79,7 +79,7 @@ responsible disclosure, and practical problem-solving.
 
 ---
 
-## 🧪 Selected Work
+##  Selected Work
 
 I would rather show you code you can clone, run, and break than list
 credentials. Each project below is real, runs locally, and is covered by tests.
@@ -118,7 +118,7 @@ stored or DOM-based XSS — rather than implying coverage it does not have.
 
 ---
 
-## 📂 Other Repositories
+##  Other Repositories
 
 Explore my repositories to follow my learning journey,
 technical experiments, and cybersecurity development.
@@ -130,19 +130,19 @@ More projects and documentation will be added as they develop.
 
 ---
 
-## 🎯 Areas of Interest
+##  Areas of Interest
 
-- 🔍 Web Application Penetration Testing
-- 🛡️ Vulnerability Assessment
-- 🔐 API Security Testing
-- 🧪 OWASP Top 10 Security Testing
-- 🤖 Security Automation
-- 🐍 Python-Based Security Tools
-- 📚 Continuous Cybersecurity Learning
+-  Web Application Penetration Testing
+-  Vulnerability Assessment
+-  API Security Testing
+-  OWASP Top 10 Security Testing
+-  Security Automation
+-  Python-Based Security Tools
+-  Continuous Cybersecurity Learning
 
 ---
 
-## 🔒 Security Ethics
+##  Security Ethics
 
 Everything in my work follows one rule: **only test what you own or have explicit
 written permission to assess.**
@@ -158,7 +158,7 @@ than opening a public issue.
 
 ---
 
-## 💼 Open to Opportunities
+##  Open to Opportunities
 
 I'm interested in opportunities such as:
 
@@ -174,7 +174,7 @@ security professionals, and contribute to meaningful security work.
 
 ---
 
-## 📬 Contact Me
+##  Contact Me
 
 <p align="left">
   <a href="mailto:lavishgangwar36@gmail.com">
@@ -182,8 +182,9 @@ security professionals, and contribute to meaningful security work.
   </a>
 </p>
 
-📧 **Email:** lavishgangwar36@gmail.com
-🌐 **GitHub:** [@MrVempiree](https://github.com/MrVempiree)
+**Email:** lavishgangwar36@gmail.com
+**Linkedln:** https://www.linkedin.com/in/mrvempiree
+**GitHub:** [@MrVempiree](https://github.com/MrVempiree)
 
 ---
 
@@ -192,5 +193,5 @@ security professionals, and contribute to meaningful security work.
 </p>
 
 <p align="center">
-  🛡️ Security • 🔍 Research • ⚡ Continuous Improvement
+   Security •  Research •  Continuous Improvement
 </p>
