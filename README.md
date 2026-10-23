@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hey! I'm **Lavish Gangwar**, also known as **Mr Vempire**.
 
@@ -41,9 +41,9 @@ and helping make systems more secure.
 I believe in a security-first mindset, continuous learning,
 responsible disclosure, and practical problem-solving.
 
-📍 **Location:**  India
-🌐 **Work Preference:** Remote / Hybrid
-💼 **Availability:** Open to suitable cybersecurity opportunities
+**Location:**  India
+**Work Preference:** Remote / Hybrid
+**Availability:** Open to suitable cybersecurity opportunities
 
 ---
 
@@ -123,8 +123,8 @@ stored or DOM-based XSS — rather than implying coverage it does not have.
 Explore my repositories to follow my learning journey,
 technical experiments, and cybersecurity development.
 
-- 🔹 **XXS-AUTOMATION** — Security automation project.
-- 🔹 **ValnScanner** — Vulnerability-scanning project.
+-  **XXS-AUTOMATION** — Security automation project.
+-  **ValnScanner** — Vulnerability-scanning project.
 
 More projects and documentation will be added as they develop.
 
