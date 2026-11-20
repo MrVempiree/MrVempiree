@@ -191,3 +191,11 @@ security professionals, and contribute to meaningful security work.
 <p align="center">
    Security •  Research •  Continuous Improvement
 </p>
+
+## Featured projects
+
+- **[Aureluis-Ai](https://github.com/MrVempiree/Aureluis-Ai)** — Self-hosted AI-powered Telegram assistant with Gemini → Groq → OpenRouter fallback, code generation, file analysis and defensive cybersecurity tooling.
+- **[vulnledger](https://github.com/MrVempiree/vulnledger)** — A defensive security ledger that turns CVE data into verified, patch-ready checks.
+- **[ValnScanner](https://github.com/MrVempiree/ValnScanner)** — Fast, modular, TypeScript-based vulnerability scanner.
+- **[XXS-AUTOMATION](https://github.com/MrVempiree/XXS-AUTOMATION)** — Security automation for detecting, scanning and reporting Cross-Site Scripting (XSS) vulnerabilities in web applications.
+- **[web-security-labs](https://github.com/MrVempiree/web-security-labs)** — Reproducible web application security labs covering XSS, SQL injection and broken access control.
