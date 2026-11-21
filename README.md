@@ -1,201 +1,113 @@
-<!-- PROFILE HEADER -->
+<img src="hero-banner.png" alt="VEMPIRE — Cybersecurity Researcher & Web Pentester" width="100%"/>
 
-<h1 align="center"> Lavish Gangwar | Mr Vempire</h1>
+<img src="avatar.png" alt="Lavish Gangwar" width="90" align="left"/>
 
-<h3 align="center">
-   Aspiring Security Engineer • Web Application Security • Penetration Testing
-</h3>
+### LAVISH GANGWAR
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Security-red?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Domain-Cybersecurity-black?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mindset-Security%20First-blue?style=for-the-badge&logo=hackthebox&logoColor=white" />
-</p>
+**Cybersecurity Researcher · Web Pentester · Security Automation**
 
-> **Building and learning since December 2024.** This GitHub account was created in
-> May 2026, so the public commit history here is shorter than the work actually is.
-> I would rather be precise about that than backfill a timeline.
+I test web applications against the OWASP Top 10 — and build the open-source tools that automate the checks: CORS trust flaws, dangling DNS and subdomain takeover, XSS. Every finding reproduced and evidenced before it is reported.
+
+💻 [GitHub](https://github.com/MrVempiree) · 💼 [LinkedIn](https://www.linkedin.com/in/mrvempiree)
 
 ---
 
-## About Me
+### 01 / FROM THOUGHT TO THING
 
-Hey! I'm **Lavish Gangwar**, also known as **Mr Vempire**.
+```
+$ scan()
 
-I'm passionate about cybersecurity, web application security,
-vulnerability assessment, and penetration testing.
-
-My focus is on understanding how applications work, identifying
-security weaknesses, learning practical testing methodologies,
-and helping make systems more secure.
-
- **My security interests include:**
-- Web Application Security
-- OWASP Top 10 Vulnerabilities
-- Authentication & Authorization Testing
-- API Security
-- Vulnerability Research
-- Security Automation
-- Ethical Hacking
-
-I believe in a security-first mindset, continuous learning,
-responsible disclosure, and practical problem-solving.
-
-**Location:**  India
-**Work Preference:** Remote / Hybrid
-**Availability:** Open to suitable cybersecurity opportunities
-
----
-
-## Core Security Skills
-
-| Area | Skills |
-|---|---|
-| Web Security | OWASP Top 10, XSS, SQL Injection, BOLA, IDOR, MANY MORE.|
-| Security Testing | Vulnerability Assessment, Manual Testing |
-| Web Tools | Burp Suite, Nmap, Wireshark|
-| Networking | TCP/IP, DNS, HTTP, HTTPS, Ports |
-| Operating Systems | Linux, Kali Linux |
-| Programming | Python, SQL, Bash |
-| Web Development | JavaScript — Learning |
-| Version Control | Git & GitHub |
-| Security Concepts | Authentication, Authorization, Access Control |
-
----
-
-##  Technical Toolkit
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,linux,bash,git,github,mysql,typescript" />
-</p>
-
-###  Security Tools
-
-
-Private and Self Made Tools
----
-
-##  Selected Work
-
-I would rather show you code you can clone, run, and break than list
-credentials. Each project below is real, runs locally, and is covered by tests.
-
-### [`web-security-labs`](https://github.com/MrVempiree/web-security-labs) — XSS, SQL injection, broken access control
-
-Reproducible web application security labs. Each lab pairs a **working vulnerable
-implementation** with a **remediated one**, and a test suite that proves the two
-behave differently.
-
-| Lab | Vulnerability | What it demonstrates |
-|-----|---------------|----------------------|
-| `xss` | CWE-79 | Context-aware output encoding, and why HTML-encoding is the wrong fix for a JavaScript string context |
-| `sqli` | CWE-89 | Why parameterised queries work *structurally* rather than by filtering input |
-| `brokenAccessControl` | CWE-639 | Authenticating is not authorising — and the 401 vs 403 distinction |
-
-- **65 automated tests, all passing** (`node --test`, no install step).
-- **Zero runtime dependencies** — nothing to audit but the code you came to read.
-- TypeScript runs natively on Node 22.6+, so there is no build step and no `node_modules`.
-- **Safety is enforced, not documented:** the server binds to `127.0.0.1` by default and
-  *refuses* a non-loopback bind unless `ALLOW_NON_LOOPBACK_BIND=1` is set explicitly.
-  That refusal is covered by its own test file.
-- Includes `README.md`, `SECURITY.md`, `CONTRIBUTING.md`, `LICENSE`, and a CI workflow.
-
-**Try it locally:**
-
-```bash
-git clone https://github.com/MrVempiree/web-security-labs.git
-cd web-security-labs
-npm test          # 65 tests
-npm start         # http://127.0.0.1:8080
+recon → test → verify → report
 ```
 
-Each lab states plainly what it does **not** model — no real database, no browser, no
-stored or DOM-based XSS — rather than implying coverage it does not have.
+**THINK** — Map the trust boundaries first: origins, DNS records, input points.
+**EXECUTE** — Test methodically, and capture the evidence — not just the claim.
+**BUILD** — Automate the check into a tested tool, so it never gets skipped.
+
+- CORS misconfigurations
+- Subdomain takeover & dangling DNS
+- XSS automation
+- OWASP Top 10 web flaws
+
+### 02 / LIFE OUTSIDE THE COMMIT
+
+<img src="avatar.png" alt="Lavish Gangwar" width="90"/>
+
+1. **Building security tools** — zero-dependency Python scanners, each shipped with a real test suite and CI.
+2. **Web security labs** — hands-on practice material for the flaws I hunt, in web-security-labs.
+3. **Open-source collaboration** — trading pull requests, reviews and fixes with fellow researchers.
+
+**BELIEF** — A finding isn't real until it's reproduced, evidenced and written down.
 
 ---
 
-##  Other Repositories
-
-Explore my repositories to follow my learning journey,
-technical experiments, and cybersecurity development.
-
--  **XXS-AUTOMATION** — Security automation project.
--  **ValnScanner** — Vulnerability-scanning project.
-
-More projects and documentation will be added as they develop.
+<img src="banner-strip.svg" alt="TEST. VERIFY. REPORT." width="100%"/>
 
 ---
 
-##  Areas of Interest
+## 03 / MY ONLINE ROOM
 
--  Web Application Penetration Testing
--  Vulnerability Assessment
--  API Security Testing
--  OWASP Top 10 Security Testing
--  Security Automation
--  Python-Based Security Tools
--  Continuous Cybersecurity Learning
+<img src="orbit-diagram.png" alt="Tech orbit — Web Security, CORS, Subdomain Takeover, XSS, Python, Burp Suite" width="100%"/>
 
----
+**Languages**
 
-##  Security Ethics
+![Python](https://img.shields.io/badge/Python-0A0E1A?style=for-the-badge&logo=python&logoColor=3776AB)
 
-Everything in my work follows one rule: **only test what you own or have explicit
-written permission to assess.**
+**Security Toolkit**
 
-- Vulnerable labs bind to `localhost` and are never intended for public deployment.
-- No tool I build performs unauthorized scanning, stealth operation, credential
-  attack, or automatic exploitation.
-- Findings are reported responsibly, with sensitive data redacted.
-- Secrets are never committed, logged, or requested in chat.
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0A0E1A?style=for-the-badge&logo=burpsuite&logoColor=FF6633) ![OWASP](https://img.shields.io/badge/OWASP-0A0E1A?style=for-the-badge&logo=owasp&logoColor=FFFFFF)
 
-If you find a vulnerability in something I maintain, please report it privately rather
-than opening a public issue.
+**Workflow & Platforms**
+
+![Git](https://img.shields.io/badge/Git-0A0E1A?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-0A0E1A?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
 ---
 
-##  Open to Opportunities
+## THINGS I'VE BUILT
 
-I'm interested in opportunities such as:
-
-- Cybersecurity Intern
-- Junior Penetration Tester
-- Junior Web Security Analyst
-- Vulnerability Assessment Intern
-- Junior Security Analyst
-- Entry-Level Security Engineering Roles
-
-I'm eager to strengthen my practical skills, collaborate with
-security professionals, and contribute to meaningful security work.
+| Project | What it does | Focus |
+| --- | --- | --- |
+| [cors-hunter](https://github.com/MrVempiree/cors-hunter) | CORS misconfiguration scanner — reflected origins, trusted `null`, wildcard-with-credentials, preflight flaws, each with evidence and a fix | Python · CORS · browser trust |
+| [takeover-check](https://github.com/MrVempiree/takeover-check) | Subdomain takeover checker — dangling CNAMEs matched against 15 service fingerprints, classified with evidence | Python · DNS · subdomain takeover |
+| [web-security-labs](https://github.com/MrVempiree/web-security-labs) | Hands-on web security labs for practising the OWASP Top 10 | Web security · labs |
 
 ---
 
-##  Contact Me
+## REAL WORK. REAL IMPACT.
 
-<p align="left">
-  <a href="mailto:lavishgangwar36@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="builder-pass.png" alt="BUILDER PASS — Lavish Gangwar, @MrVempiree, Cybersecurity Researcher & Web Pentester, 06 public repos, 66 tests, GitHub Achievements Quickdraw and YOLO" width="100%"/>
 
-**Email:** lavishgangwar36@gmail.com
-**Linkedln:** https://www.linkedin.com/in/mrvempiree
-**GitHub:** [@MrVempiree](https://github.com/MrVempiree)
+| 06 | 66 | 02 |
+| --- | --- | --- |
+| **PUBLIC REPOSITORIES** — open source on GitHub | **TESTS** — across cors-hunter & takeover-check | **ACHIEVEMENTS** — Quickdraw + YOLO, live |
+
+- **GitHub achievements** — Quickdraw and YOLO earned and visible on this profile.
+- **Open-source contributor** — pull request adding CVE-2020-36170 (Ultimate Member) to the [wp-cve-hunter](https://github.com/gravion-ux/wp-cve-hunter) CVE dataset.
+- **Tooling author** — both flagship tools are zero-dependency Python, fully unit-tested offline, with terminal, JSON and Markdown reporting.
+
+**CORE CRAFT**
+
+```
+Web application pentesting  ████████████████████
+CORS & browser trust flaws  ████████████████████
+Subdomain takeover & DNS    ████████████████████
+XSS automation              ████████████████████
+```
+
+*Bars mark focus areas, not scores.*
 
 ---
 
-<p align="center">
-  <i>"Think like an attacker. Build like a defender. Learn every day."</i>
-</p>
+## LET'S CONNECT.
 
-<p align="center">
-   Security •  Research •  Continuous Improvement
-</p>
+### BUILD SOMETHING GREAT.
 
-## Featured projects
+|  |  |
+| --- | --- |
+| 💻 GitHub | [@MrVempiree](https://github.com/MrVempiree) |
+| 💼 LinkedIn | [mrvempiree](https://www.linkedin.com/in/mrvempiree) |
+| 🌍 Based in | India · Open to remote work |
 
-- **[Aureluis-Ai](https://github.com/MrVempiree/Aureluis-Ai)** — Self-hosted AI-powered Telegram assistant with Gemini → Groq → OpenRouter fallback, code generation, file analysis and defensive cybersecurity tooling.
-- **[vulnledger](https://github.com/MrVempiree/vulnledger)** — A defensive security ledger that turns CVE data into verified, patch-ready checks.
-- **[ValnScanner](https://github.com/MrVempiree/ValnScanner)** — Fast, modular, TypeScript-based vulnerability scanner.
-- **[XXS-AUTOMATION](https://github.com/MrVempiree/XXS-AUTOMATION)** — Security automation for detecting, scanning and reporting Cross-Site Scripting (XSS) vulnerabilities in web applications.
-- **[web-security-labs](https://github.com/MrVempiree/web-security-labs)** — Reproducible web application security labs covering XSS, SQL injection and broken access control.
+---
+
+*Test. Verify. Report.*
