@@ -70,14 +70,15 @@ recon → test → verify → report
 | [cors-hunter](https://github.com/MrVempiree/cors-hunter) | CORS misconfiguration scanner — reflected origins, trusted `null`, wildcard-with-credentials, preflight flaws, each with evidence and a fix | Python · CORS · browser trust |
 | [takeover-check](https://github.com/MrVempiree/takeover-check) | Subdomain takeover checker — dangling CNAMEs matched against 15 service fingerprints, classified with evidence | Python · DNS · subdomain takeover |
 | [web-security-labs](https://github.com/MrVempiree/web-security-labs) | Hands-on web security labs for practising the OWASP Top 10 | Web security · labs |
+| [Vclipper](https://github.com/MrVempiree/Vclipper) | Local-first browser video clipper and editor with pet assistants and bring-your-own-API-key mode | Browser video editing |
 
 ---
 
 ## REAL WORK. REAL IMPACT.
 
-<img src="builder-pass.png" alt="BUILDER PASS — Lavish Gangwar, @MrVempiree, Cybersecurity Researcher & Web Pentester, 06 public repos, 66 tests, GitHub Achievements Quickdraw and YOLO" width="100%"/>
+<img src="builder-pass.png" alt="BUILDER PASS — Lavish Gangwar, @MrVempiree, Cybersecurity Researcher & Web Pentester, 12 public repos, 66 tests, GitHub Achievements Quickdraw and YOLO" width="100%"/>
 
-| 06 | 66 | 02 |
+| 12 | 66 | 02 |
 | --- | --- | --- |
 | **PUBLIC REPOSITORIES** — open source on GitHub | **TESTS** — across cors-hunter & takeover-check | **ACHIEVEMENTS** — Quickdraw + YOLO, live |
 
