@@ -71,14 +71,22 @@ recon → test → verify → report
 | [takeover-check](https://github.com/MrVempiree/takeover-check) | Subdomain takeover checker — dangling CNAMEs matched against 15 service fingerprints, classified with evidence | Python · DNS · subdomain takeover |
 | [web-security-labs](https://github.com/MrVempiree/web-security-labs) | Hands-on web security labs for practising the OWASP Top 10 | Web security · labs |
 | [Vclipper](https://github.com/MrVempiree/Vclipper) | Local-first browser video clipper and editor with pet assistants and bring-your-own-API-key mode | Browser video editing |
+| [crimson-recon](https://github.com/MrVempiree/crimson-recon) | Offline attack-surface review for red teamers — prioritised exposure summaries with remediation notes from saved nmap, header and DNS evidence | Python · attack surface · offline |
+| [nightnotes](https://github.com/MrVempiree/nightnotes) | Full-stack notes web app — Python stdlib backend, SQLite, PBKDF2 auth, dark vanilla-JS frontend | Python · SQLite · web app |
+| [fang-bounty](https://github.com/MrVempiree/fang-bounty) | Offline bug-bounty workflow toolkit — scope checks, findings dedupe, CVSS 3.1 scoring, report generation, 7-question submission gate | Python · bug bounty · CVSS |
+| [vamp-bot](https://github.com/MrVempiree/vamp-bot) | Platform-agnostic Python chat-bot framework — command router, middleware, rate limiting, platform adapters, offline simulator | Python · chat bots · framework |
+| [fang-jwt](https://github.com/MrVempiree/fang-jwt) | Client-side JWT inspector — decode tokens, check expiry, flag weak patterns | Browser · JWT · client-side |
+| [grave-dns](https://github.com/MrVempiree/grave-dns) | Client-side DNS security analyser — SPF, DMARC, DKIM, CAA and MX records graded with exact fixes | Browser · DNS · email security |
+| [crypt-share](https://github.com/MrVempiree/crypt-share) | Client-side encrypted note sharing with AES-GCM links and encrypted file export | Browser · encryption · privacy |
+| [nightwatch](https://github.com/MrVempiree/nightwatch) | Full-stack uptime monitor with SQLite check history, incident tracking, dark status page, bot-ready alert payloads | Python · uptime · monitoring |
 
 ---
 
 ## REAL WORK. REAL IMPACT.
 
-<img src="builder-pass.png" alt="BUILDER PASS — Lavish Gangwar, @MrVempiree, Cybersecurity Researcher & Web Pentester, 12 public repos, 66 tests, GitHub Achievements Quickdraw and YOLO" width="100%"/>
+<img src="builder-pass.png" alt="BUILDER PASS — Lavish Gangwar, @MrVempiree, Cybersecurity Researcher & Web Pentester, 30 public repos, 66 tests, GitHub Achievements Quickdraw and YOLO" width="100%"/>
 
-| 12 | 66 | 02 |
+| 30 | 66 | 02 |
 | --- | --- | --- |
 | **PUBLIC REPOSITORIES** — open source on GitHub | **TESTS** — across cors-hunter & takeover-check | **ACHIEVEMENTS** — Quickdraw + YOLO, live |
 
